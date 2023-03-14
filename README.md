@@ -1,0 +1,33 @@
+# 车道减少场景下的智能网联车辆仿真平台
+
+## 研究背景
+
+![image-20230314174440629](README.assets/image-20230314174440629.png)
+
+![image-20230314174454616](README.assets/image-20230314174454616.png)
+
+## 理论框架
+
+![image-20230314174514823](README.assets/image-20230314174514823.png)
+
+![image-20230314174559155](README.assets/image-20230314174559155.png)
+
+## 算法设计
+
+![image-20230314174618477](README.assets/image-20230314174618477.png)
+
+![image-20230314174657267](README.assets/image-20230314174657267.png)
+
+## 仿真实验
+
+![image-20230314174720580](README.assets/image-20230314174720580.png)
+
+## 总结
+
+![image-20230314174738352](README.assets/image-20230314174738352.png)
+
+## 效果展示
+
+![image-20230314174836575](README.assets/image-20230314174836575.png)
+
+![image-20230314174902361](README.assets/image-20230314174902361.png)
